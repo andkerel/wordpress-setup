@@ -1,0 +1,15 @@
+/*!
+* Theme Name: Base Theme
+* Theme URI: https://github.com/andkerel/wordpress-setup
+* Description: A wordpress blank setup for custom theme development by Andrea Kereliuk. Based on Scratch @ http://tjkelly.com/scratch-wordpress-theme/ by TJ Kelly.
+* Author: Andrea Kereliuk
+* Tags: scratch, empty, blank, reset, base, starter, setup
+
+* Version: 1.0
+* Text Domain: project
+*/
+
+//@import 'vendor/grid';
+@import 'partials/mixins',
+        'partials/reset',
+        'partials/base';
